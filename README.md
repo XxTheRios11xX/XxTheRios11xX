@@ -1,9 +1,13 @@
 
-<h1 align="center">¡Hi!, I'm Santiago Rios</h1>
+<h1 align="center">
+    ¡Hi!, I'm Santiago Rios
+    <br>
+    <img src="https://github.com/XxTheRios11xX/XxTheRios11xX/blob/main/pikachu.gif" alt="Hi">
+</h1>
 <p>
     <li> I’m interested in Frontend Development 💻</li>
     <li> I’m currently studying at UD 📚</li>
-    <li> If you want to know more 'bout me you can send me an <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=therios1610@gmail.com">email. </a>📩</li>
+    <li> If you want to know more about me you can send me an <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=therios1610@gmail.com">email. </a>📩</li>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

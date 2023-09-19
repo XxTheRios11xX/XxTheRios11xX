@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    ¡Hi!, I'm Santiago Rios
+    ¡Hi!, I'm Santiago Rios !
     <br>
     <img src="https://github.com/XxTheRios11xX/XxTheRios11xX/blob/main/pikachu.gif" alt="Hi">
 </h1>
